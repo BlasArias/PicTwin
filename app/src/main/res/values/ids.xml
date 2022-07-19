@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="am_rv_twins" type="id" />
+    <item name="rt_tv_mine" type="id" />
+    <item name="rt_tv_yours" type="id" />
+</resources>
